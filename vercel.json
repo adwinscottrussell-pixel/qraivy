@@ -1,0 +1,9 @@
+{
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/frame-margaret", "destination": "/frame-margaret.html" },
+    { "source": "/frame-heinrich", "destination": "/frame-heinrich.html" },
+    { "source": "/memory-margaret", "destination": "/memory-margaret.html" },
+    { "source": "/memory-heinrich", "destination": "/memory-heinrich.html" }
+  ]
+}
